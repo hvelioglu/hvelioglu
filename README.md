@@ -1,6 +1,6 @@
-# ​ Hi, I'm Hamithan Velioğlu
+# ​ Hi, I'm Hamidhan Velioğlu
 
-💻 Backend Developer (.NET) | 🎓 Software Engineering Student @ Doğuş University  
+💻 Backend Developer (.NET) | 🎓 Software Development Student @ Doğuş University  
 🚀 Currently working at **Unication A.Ş.**
 
 ---
